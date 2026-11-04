@@ -157,7 +157,7 @@
 <img width="1312" height="1199" alt="Image" src="https://github.com/user-attachments/assets/73ce8ec7-cd21-4f27-baac-8637394994e1" />
   
   - 우리가 그리는 미래 그리고 나
-<img width="9933" height="14043" alt="Image" src="https://github.com/user-attachments/assets/b15ecfcc-83c6-47f2-80ac-10c1e8d42151" />
+<img width="2000" alt="Image" src="https://github.com/user-attachments/assets/b15ecfcc-83c6-47f2-80ac-10c1e8d42151" />
 # ReadyMind 2050 — AI 기반 스마트 외출 준비 서비스
 
 ## 1. 서비스 개요
@@ -259,11 +259,11 @@ Augmented Reality Reminder
 - 일정에 맞춰 출발 전 알림 제공
 - 사용자의 시야를 방해하지 않도록 필요한 정보만 간결하게 표시
 
-예시 화면:
-출발 전 준비 상태
-노트북 | 확인 완료
-충전기 | 확인 완료
-USB | 확인 필요 - 출발 전에 USB를 확인하세요.
+예시 화면:  
+출발 전 준비 상태  
+노트북 | 확인 완료  
+충전기 | 확인 완료  
+USB | 확인 필요 - 출발 전에 USB를 확인하세요.  
 
 ## 4. 사용자 경험 시나리오
 
