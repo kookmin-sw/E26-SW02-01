@@ -67,7 +67,7 @@
 
   
   - 우리가 그리는 미래 그리고 나
-<img width="2000" alt="Image" src="https://github.com/user-attachments/assets/b15ecfcc-83c6-47f2-80ac-10c1e8d42151" />
+
 # ReadyMind 2050 — AI 기반 스마트 외출 준비 서비스
 
 ## 1. 서비스 개요
